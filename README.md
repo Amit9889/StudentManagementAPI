@@ -234,4 +234,16 @@ Tech Stack:
 
 
 <img width="1844" height="989" alt="Screenshot From 2026-07-23 00-05-01" src="https://github.com/user-attachments/assets/2562d39e-c34d-43fc-a7e9-85d6305bddf0" />
+<img width="1844" height="989" alt="Screenshot From 2026-07-23 00-05-08" src="https://github.com/user-attachments/assets/6aba82d2-1886-47b2-8e3a-c737efe4ea09" />
+<img width="1844" height="989" alt="Screenshot From 2026-07-23 00-05-26" src="https://github.com/user-attachments/assets/f5291dac-2cb2-4b93-9c96-c6e9cfb5543e" />
+<img width="1844" height="989" alt="Screenshot From 2026-07-23 00-05-45" src="https://github.com/user-attachments/assets/2c6eab40-dcc4-45f5-b69e-fdac7a093a2b" />
+<img width="1836" height="996" alt="Screenshot From 2026-07-23 00-13-44" src="https://github.com/user-attachments/assets/33a7b742-3168-4491-8f9d-246157f993c1" />
+<img width="1836" height="996" alt="Screenshot From 2026-07-23 00-14-10" src="https://github.com/user-attachments/assets/01e6c32d-f585-4cee-890b-4d0cbd36e735" />
+<img width="1836" height="996" alt="Screenshot From 2026-07-23 00-16-21" src="https://github.com/user-attachments/assets/252b2fc5-73c5-49b6-a9de-036b3f150d6b" />
+<img width="1920" height="1080" alt="Screenshot From 2026-07-23 00-18-02" src="https://github.com/user-attachments/assets/21009012-7999-4f6f-b59d-6bb13cfb4f1a" />
+
+
+
+
+
 
