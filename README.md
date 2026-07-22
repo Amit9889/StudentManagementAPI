@@ -231,3 +231,7 @@ Tech Stack:
 - MySQL
 - JWT Authentication
 - ASP.NET Core Identity
+
+
+<img width="1844" height="989" alt="Screenshot From 2026-07-23 00-05-01" src="https://github.com/user-attachments/assets/2562d39e-c34d-43fc-a7e9-85d6305bddf0" />
+
